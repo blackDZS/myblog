@@ -2,7 +2,11 @@
 title: "什么是Agent ?"
 description: 
 categories:
+- Agent
 tags:
+- AI
+- Agent
+- 概念
 date: 2025-03-25T11:56:39+08:00
 image: AgentCycle.png
 math: 
@@ -66,7 +70,7 @@ LLM 驱动的Agent主要包括以下几个[模块](https://lilianweng.github.io/
 - 工具
 	- 使用外部工具拓展大模型本身不具备的能力，如网络搜索，代码执行，从多个数据源检索信息
 
-![[MyDoc/Outcomes/博客/什么是Agent/src/Agent System.png]]
+![Agent System](AgentSystem.png)
 
 
 # 参考
