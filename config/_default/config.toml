@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "http://152.32.128.43"
+baseurl = "http://www.dizs.site"
 languageCode = "zh-cn"
 title = "AI.3407"
 
@@ -16,3 +16,11 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 5
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-26P4NX9J8P'
+
+  [services.umami_analytics]
+    id = '43d3a0eb-c178-4a45-932d-f2a107809b24'
+    script_url = 'https://cloud.umami.is/script.js'

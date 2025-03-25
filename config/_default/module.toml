@@ -1,2 +1,8 @@
 [[imports]]
 path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+
+[[imports]]
+path = "github.com/hugomods/google-analytics"
+
+[[imports]]
+path = "github.com/hugomods/umami-analytics"

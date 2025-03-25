@@ -1,2 +1,6 @@
 github.com/CaiJimmy/hugo-theme-stack/v3 v3.30.0 h1:uITC7EKGyfPjyi3C5At++E0Uu1qQXtqiwMV4pd7LkLs=
 github.com/CaiJimmy/hugo-theme-stack/v3 v3.30.0/go.mod h1:IPmCXiIxlFSLFYS0tOmYP6ySLviyeNVSabyvSuaxD+I=
+github.com/hugomods/google-analytics v0.2.1 h1:591qgcVeqROhPhmI03YPiGXlb0jaIIqXDxy1HCNwD50=
+github.com/hugomods/google-analytics v0.2.1/go.mod h1:Q89C3HmPHn2m2VT1INfnLwkpDyyYRLRIPitLA/aFIy8=
+github.com/hugomods/umami-analytics v0.3.1 h1:C4B1oKRBvCRamH3muiWK+QNbehmxd+7DiK80jHCdMJo=
+github.com/hugomods/umami-analytics v0.3.1/go.mod h1:nlZGLPH5L+H25+HwmuzHsEfM869+tMTUTcSUBcOQEm4=
