@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "/favicon.png"
+favicon = "/ai3407_128x128.png"
 
 [footer]
 since = 2020
@@ -19,7 +19,7 @@ subtitle = "3407 is all you need !"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/ai3407.png"
 
 [article]
 headingAnchor = false
