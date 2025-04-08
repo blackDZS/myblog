@@ -8,6 +8,7 @@ license:
 hidden: false
 comments: true
 draft: False
+slug: "deepseek_v3_report"
 ---
 
 # 改进概述
