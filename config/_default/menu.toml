@@ -7,27 +7,27 @@
 #icon = "home"
 #newtab = true
 
-[[social]]
-identifier = "github"
-name = "GitHub"
-url = "https://github.com/blackDZS"
+# [[social]]
+# identifier = "github"
+# name = "GitHub"
+# url = "https://github.com/blackDZS"
 
-[social.params]
-icon = "brand-github"
+# [social.params]
+# icon = "brand-github"
 
-[[social]]
-identifier = "zhihu"
-name = "Zhihu"
-url = "https://www.zhihu.com/people/di-zhen-sheng"
+# [[social]]
+# identifier = "zhihu"
+# name = "Zhihu"
+# url = "https://www.zhihu.com/people/di-zhen-sheng"
 
-[social.params]
-icon = "brand-zhihu"
+# [social.params]
+# icon = "brand-zhihu"
 
 
-[[social]]
-identifier = "douyin"
-name = "Douyin"
-url = "https://www.douyin.com/user/MS4wLjABAAAAgCPV8d0x7IJ7tX8g3FOUY3FwI1D8PXkUJQAR1hpDLKE"
+# [[social]]
+# identifier = "douyin"
+# name = "Douyin"
+# url = "https://www.douyin.com/user/MS4wLjABAAAAgCPV8d0x7IJ7tX8g3FOUY3FwI1D8PXkUJQAR1hpDLKE"
 
-[social.params]
-icon = "brand-tiktok"
+# [social.params]
+# icon = "brand-tiktok"
